@@ -123,7 +123,7 @@ html, body {
   animation-delay: 24s;
 }
 
-.usechrome {
+.m-mots-loading-page-usechrome {
   font-size: 10px;
   color: #fff;
   font-family: helvetica, arial;
@@ -132,6 +132,11 @@ html, body {
   width: 100%;
   text-align: center;
   left: 0;
+}
+
+.m-mots-loading-page-feedback {
+  text-decoration: text-decoration;
+  color: yellow;
 }
 
 @keyframes titleAnimation {
