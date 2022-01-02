@@ -135,7 +135,7 @@ html, body {
 }
 
 .m-mots-loading-page-feedback {
-  text-decoration: text-decoration !important;
+  text-decoration: underline !important;
   color: yellow;
 }
 
